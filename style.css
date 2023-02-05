@@ -1,0 +1,42 @@
+.tc{
+    color: brown;
+    text-align: center;
+    font-family: cursive;
+    border:solid 5px;
+    border-color: aqua;
+    padding: 10px 5px;
+    margin: 5px 400px;
+
+    
+}
+.cowani{
+    color: darkgreen;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.farm{
+    color: brown;
+    text-align: center;
+}
+.dubai{
+    color: darkgreen;
+    text-align: center;
+}
+.name{
+    color: blue;
+    text-align: center;
+}
+.cwname{
+    color: red;
+    text-align: center;
+}
+.flist{
+    color: teal;
+}
+.doll{
+    color: aqua;
+    background-color: rgb(2, 54, 20);
+}
+.cowboy{
+    color: lightsalmon;
+}
