@@ -17,6 +17,11 @@
 .farm{
     color: brown;
     text-align: center;
+    border:solid 5px;
+    border-color: aqua;
+    padding: 10px 5px;
+    margin: 5px 400px;
+
 }
 .dubai{
     color: darkgreen;
